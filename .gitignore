@@ -1,0 +1,20 @@
+# Directories to ignore
+old/
+new/
+tmp/
+save/
+
+# Artifacts
+bucket/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Junk
+.DS_Store
+Thumbs.db
+.*.swp
+*.versionsBackup
+~$*
